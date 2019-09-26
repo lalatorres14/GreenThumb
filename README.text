@@ -1,0 +1,21 @@
+README
+
+Welcome to Green Thumb! 
+
+This game was developed by Paula Torres-Wilcken, 2019.
+All gameplay and artwork is original.
+
+Overview:
+Green Thumb is a gardening game in which the player must cultivate and raise nine flowers to full growth.
+However, water is limited! 
+Your watering can will slowly lose water and you must refill it  under the faucet to keep growing your flowers.
+Flowers have four growth stages, from a seedling to full bloom, which can be unlocked from steady watering. 
+Be careful! Flowers who don't recieve enough consistent watering will wilt and eventually die. 
+Wilted flowers can be recovered, but if they die, you will lose a life.
+You have 3 lives. You will lose if you lose them all. 
+
+Gameplay:
+A button (x on keyboard) pours out water
+B button (z on keyboard) refills watering can under faucet
+Start button (enter on keyboard) pauses game
+Select button (backspace on keyboard) activates golden watering can for infinite water
